@@ -5,6 +5,8 @@ using System.ComponentModel.DataAnnotations;
 public class FantasyTeam 
 {
     
+    [Key]
+
     public string? QB1 {get; set;}
 
     public string? QB2 {get; set;}
@@ -21,8 +23,16 @@ public class FantasyTeam
 
     public string? Flex {get; set;}
 
-    public string? Kicker {get;set;}
+    public string? Kicker {get; set;}
 
-    public string? Defense {get;set}
+    public string? Defense {get; set;}
+
+    public int? SkillLevel {get; set;}
+
+    public int? TouchdownsScoredLastYear {get; set;}
+
+    public int? TouchDownsProjected {get; set;}
+
+    
 
 }
