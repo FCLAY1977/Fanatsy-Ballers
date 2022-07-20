@@ -27,12 +27,12 @@ public class FantasyTeam
 
     public string? Defense {get; set;}
 
-    public int? SkillLevel {get; set;}
+    public double? SkillLevel {get; set;}
 
     public int? TouchdownsScoredLastYear {get; set;}
 
     public int? TouchDownsProjected {get; set;}
 
-    
+
 
 }
