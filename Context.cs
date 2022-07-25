@@ -8,7 +8,7 @@ public class Context : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
         // connect to sqlite database
-        options.UseSqlite(@"FantasyBallers=test.db");
+        options.UseSqlite(@"Data Source=FantasyBallers.db");
     }
    
    
