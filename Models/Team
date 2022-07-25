@@ -1,0 +1,8 @@
+namespace Team;
+
+public class Fantasy Team 
+
+{
+    public string? NameYourTeam {get;  set;}
+
+}

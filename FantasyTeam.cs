@@ -5,8 +5,10 @@ using System.ComponentModel.DataAnnotations;
 public class FantasyTeam 
 {
     
-    [Key]
-
+    [Key] 
+    
+    public int ID {get;set;}
+    
     public string? QB1 {get; set;}
 
     public string? QB2 {get; set;}
