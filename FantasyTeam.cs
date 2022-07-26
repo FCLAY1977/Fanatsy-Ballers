@@ -31,7 +31,7 @@ public class FantasyTeam
 
     public double? SkillLevel {get; set;}
 
-    public int? TouchdownsScoredLastYear {get; set;}
+    public int? TouchdownsLastYear {get; set;}
 
     public int? TouchDownsProjected {get; set;}
 
