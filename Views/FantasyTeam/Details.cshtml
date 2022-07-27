@@ -1,0 +1,96 @@
+@model FantasyTeam
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>FantasyTeam</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QB1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QB1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QB2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QB2)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RB1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RB1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RB2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RB2)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WR1)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WR1)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WR2)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WR2)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TE)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TE)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Flex)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Flex)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Kicker)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Kicker)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Defense)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Defense)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SkillLevel)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SkillLevel)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TouchdownsLastYear)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TouchdownsLastYear)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TouchDownsProjected)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TouchDownsProjected)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

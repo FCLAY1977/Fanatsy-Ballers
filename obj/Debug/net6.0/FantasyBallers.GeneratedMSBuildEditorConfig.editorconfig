@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\raind\FantasyBallers
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/raind/FantasyBallers/Views/FantasyTeam/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzeVRlYW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/raind/FantasyBallers/Views/FantasyTeam/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzeVRlYW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/raind/FantasyBallers/Views/FantasyTeam/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzeVRlYW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/raind/FantasyBallers/Views/FantasyTeam/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzeVRlYW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/raind/FantasyBallers/Views/FantasyTeam/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzeVRlYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/raind/FantasyBallers/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
