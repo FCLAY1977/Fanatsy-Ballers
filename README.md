@@ -25,3 +25,7 @@ I have implemented a “master loop” console application where the user can re
  
 
  I have created a dictionary or list, populated it with several values, retrieved at least one value, and used it in my program. 
+ 
+ 
+ I have created a program that can read data from an external JSON file to utilize that data in my application.
+
