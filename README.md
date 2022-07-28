@@ -8,7 +8,8 @@ The special instruction/system requirements are as follows:
 1. My application needs to be accessed on a PC or Mac that has Visual Studio Code installed.
 2. My repository can be cloned via Github at https://github.com/FCLAY1977/Fantasy-Ballers.git
 3. The MVC can be run at the terminal level using the dotnet run command.
-4. You can then click and press ctrl on one of the http links to access the MVC.
+4. You can then click and press ctrl on one of the http links under the info: Microsoft.Hosting.Lifetime line 
+   to access the MVC.
 
 The requirements for this project I believe I have met are listed below: 
 
