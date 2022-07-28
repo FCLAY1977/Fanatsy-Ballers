@@ -1,7 +1,7 @@
 # Fantasy-Ballers
 Code Louisville Software Dev2 Proj
 
-This is my project for the May Software Development Level 2 cohort. It is Fantasy Football Team MVC/ASP. Net project that allows you to create a personalized roster of your favorite NFL players that can displayed in a list for comparison. 
+This is my project for the May Software Development Level 2 cohort. It is a Fantasy Football Team MVC/ASP. Net project that allows you to create a personalized roster of your favorite NFL players that can displayed in a list for comparison. 
 
 The special instruction/system requirements are as follows:
 
