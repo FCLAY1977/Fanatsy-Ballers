@@ -3,9 +3,12 @@ Code Louisville Software Dev2 Proj
 
 This is my project for the May Software Development Level 2 cohort. It is Fantasy Football Team MVC/ASP. Net project that allows you to create a personalized roster of your favorite NFL players that can displayed in a list for comparison. 
 
-The special instruction/system requirements to use my application are that it needs to be accessed on a PC or Mac that has Visual Studio Code installed.  
+The special instruction/system requirements are as follows:
 
- 
+1. My application needs to be accessed on a PC or Mac that has Visual Studio Code installed.
+2. My repository can be cloned via Github at https://github.com/FCLAY1977/Fantasy-Ballers.git
+3. The MVC can be run at the terminal level using the dotnet run command.
+4. You can then click and press ctrl on one of the http links to access the MVC.
 
 The requirements for this project I believe I have met are listed below: 
 
